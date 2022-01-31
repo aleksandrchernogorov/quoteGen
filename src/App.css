@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+.center {
+  margin: auto;
+  width: 50%;
+}
+
+#tweet-quote {
+  text-decoration: none;
+  color: #fff;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
